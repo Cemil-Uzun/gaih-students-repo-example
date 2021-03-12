@@ -1,4 +1,4 @@
-#I created 5 cv and insert them in a list after that i printed them with a for loop.
+#I created 5 cv and inserted them in a list after that i printed them with a for loop.
 CV1={"Name":"Derya",
      "Surname":"Er",
      "Birthday":"10.10.1995",
